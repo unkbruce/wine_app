@@ -2,4 +2,5 @@ langchain
 langchain-community
 langchain-openai
 langchain_pinecone
-streamlit  python-dotenv
+streamlit
+python-dotenv
